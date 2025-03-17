@@ -1,0 +1,12 @@
+fastapi[standard]
+uvicorn
+sqlmodel
+python-multipart
+langchain
+langchain-groq
+pypdf2
+pydantic-settings
+psycopg
+psycopg-binary
+streamlit
+crewai
